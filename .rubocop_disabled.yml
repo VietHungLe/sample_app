@@ -69,4 +69,3 @@ Naming/AccessorMethodName:
 Lint/AssignmentInCondition:
   Description: "Don't use assignment in conditions."
   Enabled: false
-
